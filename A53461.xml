@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Oats's last legacy's and his farewel sermon he being sent for to be the high priest to the Grand Turk.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53461</idno>
+            <idno type="STC">Wing O48</idno>
+            <idno type="STC">ESTC R22082</idno>
+            <idno type="EEBO-CITATION">12570014</idno>
+            <idno type="OCLC">ocm 12570014</idno>
+            <idno type="VID">63424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63424)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 770:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Oats's last legacy's and his farewel sermon he being sent for to be the high priest to the Grand Turk.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Dean,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>A satire.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="mock_sermon">
+            <pb n="1" facs="tcp:63424:1" rendition="simple:additions"/>
+            <head>Dr Oatss laſt Legacy's and his Farewel SERMON. He being ſent for to be high Prieſt to the Grand Turk.</head>
+            <p>TRuly my Friends you know my Ability comes ſhort of what it was three or four years a gone, but what is left except ready mony, and my neceſſary Bums, I ſhall freely give and bequeath amongſt you: For you know, as ſure as there was a Popiſh-Plot, I am ſeven hundred pounds the worſe for the Court.</p>
+            <p>
+               <hi>Imprimis, I</hi> give and bequeath to his Grace the two Baſtards that ſome of our Siſter-<hi>Hood</hi> laid at my door, four years a gone, perhaps he may manage them to be as fit for Kings as himſelf. The L. <hi>B-ll—s</hi> Commiſſion, which I gave him I Recall and give it unto Bully Tom, for the good ſervice he has done his Grace, provided he do not preſume to the Crown himſelf.</p>
+            <p>The Commiſſion which <hi>I</hi> gave to the L. <hi>P—w—ſs,</hi> to be High-Treaſurer, to the Popiſh inviſible Army, <hi>I</hi> Recall, and give it to <hi>Ch—a—l—n</hi> with the wooden Leg. The L. <hi>P—t—s</hi> Commiſſion <hi>I</hi> give to <hi>Wildman:</hi> he was ever true to the Cauſe.</p>
+            <p>
+               <hi>R—t—i—ffs</hi> Commiſſion <hi>I</hi> give to <hi>Brandon G—d</hi> he has been Vigilant all a long. The L. <hi>A—u-d—s</hi> Place and Commiſſion, <hi>I</hi> give to <hi>H—d—n</hi> in the <hi>Tower</hi> for his Father was <hi>Olivers</hi> own Cozen, and a Ld. of his creating. The L. <hi>Caſtlemains</hi> Commiſſion <hi>I</hi> give to <hi>T—e—h—d. What a plague am I a doing: I</hi> ſhall never have done with thoſe forty Damn'd Commiſſions; diſpoſe of the reſt at your Diſcretion. Rot 'em, they do not deſerve all this kindneſs from me, be<g ref="char:EOLhyphen"/>cauſe they durſt not truſt me with the right Plot. There's an Old <hi>Meal-tub</hi> be<g ref="char:EOLhyphen"/>hind the door there; <hi>I</hi> leave that to Sr. <hi>W—m- W—r,</hi> and that flogging bed in the Corner there, and that Harts Horn to hang his Hat on, when he comes to Town, hels the honeſteſt man in all the party; ah, that good man, <hi>I</hi> wonder wat's become of him, that <hi>I</hi> never heard from him, but he was always ſo Zealous in hunting after the plaguy Jeſuits, and turning up the Old Wo<g ref="char:EOLhyphen"/>mens Smock, for fear the Prieſts ſhould eſcape under that diſguiſe; and being purblind, was forc'd to thruſt his Noſe ſo near the Crevices, that <hi>I</hi> am afraid the poor little Knight is ſnapt up, and loſt in ſome of thoſe dark Quarters of the World: and here's an Old <hi>Geneva Bible,</hi> and the reſt of my <hi>Liberies,</hi> that treats of their Crucified God. <hi>I</hi> leave 'em to Sr. <hi>W—m:</hi> if e're he comes to ſee his al<g ref="char:EOLhyphen"/>moſt vertuous <hi>L—dy,</hi> that he may burn 'em all: for he's mighty ingenious at it: but for my <hi>Narrative,</hi> the <hi>Alcoran, Tom-Thum, Jack-Straw,</hi> the growth of Pope<g ref="char:EOLhyphen"/>ry <hi>Care's</hi> Pacquets, <hi>Baxters</hi> Call, <hi>Bedlows</hi> Narrative, <hi>Dugdals</hi> Narrative, <hi>&amp;c.</hi> Let him keep them for the benefit of the Mahometan Saints, my Lord <hi>Ruſſels Speech</hi> muſt be kept till he's cannonized for a Saint.</p>
+            <p>My ſwearing Office and all the Right; and Priviledges, thereunto belonging, <hi>I</hi> leave to Mr. <hi>D—d</hi>—and Mr. <hi>P—r—c</hi>—for they are juſt Men like my ſelf.</p>
+            <p>My Ears I leave to Sr. <hi>P—t—e—c</hi>—for I am ſure heel have occaſion for them, when he appears in publick, my Jack-Spit and long Spoon, <hi>I</hi> leave to <hi>Sidny,</hi> to carry with him down into the Country, where the Cabals are now kept, by
+<pb n="2" facs="tcp:63424:2"/> 
+               <hi>Noll, Bradſhaw, Tap,</hi> and the reſt for <hi>I</hi> hear there would be a great many more Roſted in that Large, Black Kittle if they had but fruits enough.</p>
+            <p>The Hangings of my Room <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Jack <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> for his mouth he shamk<g ref="char:EOLhyphen"/>er'd and hang'd after me this long time and now at laſt like Old <hi>Tapski, I</hi> in<g ref="char:EOLhyphen"/>tend to run away, and Cheat him of our Job. My ſweet ſanctified Slipers, <hi>I</hi> leave to Sr. <hi>Thomas P</hi>—to drink a C<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ling health to his Whore in, My long ſhooing Horn, <hi>I</hi> leave to Sr. <hi>Robert</hi>—C-for his Shoos are apt to pinch, ſince the Charter was loſt, not but that he has two lovely Antlers of his own, would make better ſhooing Horns; but that he's ſo proud of them he will not ſuffer them to be cut off; <hi>Zounds,</hi> I had like to forgo poor <hi>Euſtice Cumins,</hi> let me ſee, Oh! you Varlet, go fetch me that Old Bundle of Tatterdimallions from under my bed; that <hi>I</hi> came Mumping from <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Omers</hi> in. Come, come, let me ſee 'um, Heart and Blood of Mahomet; what a live yet? Ha, ha, ha, why, they are ten thouſand ſtrong, and as Rampant in their Country gray Liveries, marching in Battle Ar<g ref="char:EOLhyphen"/>ray, like the Grand Turks at <hi>Vienna,</hi> well let him have 'em, he'l have as ſtrong a guard as ever <hi>I</hi> had; they'l incamp in the red Rug he wears about his ſhould<g ref="char:EOLhyphen"/>ers for this <hi>W<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nte<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Well, <hi>I</hi> have no more to diſpoſe of, come, come, clear the Room, turn out, Varlets, Bums and Loobies, march a Board the Ship, in tri<g ref="char:EOLhyphen"/>angle Order that <hi>I</hi> may ſee the Number of fourſcore, well Right, go ſee my Cabin, and all things be ready, <hi>I</hi>'ll be o'th' bones on you preſently.</p>
+            <p>MY Friends <hi>I</hi> imagin you expect a Lecture, or a ſhort Exhortation at parting &amp; as <hi>I</hi> am not over ſtockt with Rethorick unleſs my infallible Tallent of ſwearing, I'll be ſhort with you: for my Text, <hi>I</hi> will not look for it, for <hi>I</hi> am al<g ref="char:EOLhyphen"/>moſt as great a ſtranger to the <hi>Alcoran,</hi> as yet, as to the Bible, <hi>I</hi> preach all by Inſpi<g ref="char:EOLhyphen"/>ration. Oh! Popery, Popery's coming in upon you, have a care <hi>I</hi> ſay, of <hi>Ant-Chriſt,</hi> and Popery, Remember my words when <hi>I</hi> am gone. Bind your Nobles in Fetters, and your Princes in Chains ſtand up for your Liberties, and Properties and the good old Cauſe, for the Liturgie of the Engliſh Church is nothing but Superſtition and Popery; the Biſhops are all Popes, and the Clergemen are all Jeſuits: Nay the Bible it ſelf, if you ſearch it from one end to the other: is litle better then Popery, it was Popery that brought in the Bible and as long as there is a Bible in the Nation: You'l nr'e be free from Popery. Leave the uſe of Women as I do, leaſt your Children turn Papiſts &amp; ſwear, Blaſpheme, Whore, commit Bugggery, Cheat, be Drunk, Lie, Steal, Whine, Flear, Grin, Houl, Cant, ſnivel, ſnarl, ſcratch, Bite, cut throats and Rebel, be Damn'd or any thing to prevent Popery, but I am almoſt ſpent,</p>
+            <closer>
+               <salute>My Benedicteon on you all, I leave you to the protection of <hi>Mahomet</hi> and the D—l, and ſo Farwell.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> J. Dean 1683</p>
+         </div>
+      </back>
+   </text>
+</TEI>
